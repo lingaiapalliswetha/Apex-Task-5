@@ -1,7 +1,7 @@
 # 📊 Data Analytics Internship Portfolio
 
 ## 👩‍💻 About Me
-Hi 👋, I'm **Shreeja Mandaloju**, a B.Tech CSE student and aspiring Data Analyst.  
+Hi 👋, I'm **Lingaipalli swetha**, a B.Tech CSE student and aspiring Data Analyst.  
 This repository showcases my work completed during the **Data Analytics Internship** at **ApexPlanet Software Pvt. Ltd.**
 
 ---
@@ -25,7 +25,7 @@ This internship focused on building end-to-end data analytics skills:
 - Handled missing values, duplicates, inconsistencies  
 
 🔗 Repository:  
-https://github.com/ShreejaMandaloju/Apex-Planet-Task-1  
+https://github.com/lingaiapalliswetha/Apex-Task-1 
 
 ---
 
@@ -34,7 +34,7 @@ https://github.com/ShreejaMandaloju/Apex-Planet-Task-1
 - Created visualizations for insights  
 
 🔗 Repository:  
-https://github.com/ShreejaMandaloju/Apex-Planet-Task-2  
+https://github.com/lingaiapalliswetha/Apex-Task-2
 
 ---
 
@@ -44,7 +44,7 @@ https://github.com/ShreejaMandaloju/Apex-Planet-Task-2
 - Performed segmentation analysis  
 
 🔗 Repository:  
-https://github.com/ShreejaMandaloju/Apex-Planet-Task-3  
+https://github.com/lingaiapalliswetha/Apex-Task-3
 
 ---
 
@@ -53,7 +53,7 @@ https://github.com/ShreejaMandaloju/Apex-Planet-Task-3
 - Performed hypothesis testing  
 
 🔗 Repository:  
-https://github.com/ShreejaMandaloju/Apex-Planet-Task-4  
+https://github.com/lingaiapalliswetha/Apex-Task-4  
 
 ---
 
