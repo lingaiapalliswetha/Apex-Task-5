@@ -95,5 +95,5 @@ This portfolio represents a complete end-to-end data analytics workflow — from
 
 ## 🔗 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/shreeja-mandaloju-40593425b/
-- GitHub: https://github.com/ShreejaMandaloju
+- LinkedIn: https://www.linkedin.com/in/lingaipalli-swetha-76888b364/
+- GitHub: https://github.com/lingaiapalliswetha
