@@ -1,7 +1,7 @@
 # 📊 Data Analytics Internship Portfolio
 
 ## 👩‍💻 About Me
-Hi 👋, I'm **Lingaipalli swetha**, a B.Tech CSE student and aspiring Data Analyst.  
+Hi 👋, I'm **Lingaipalli Swetha**, a B.Tech CSE student and aspiring Data Analyst.  
 This repository showcases my work completed during the **Data Analytics Internship** at **ApexPlanet Software Pvt. Ltd.**
 
 ---
